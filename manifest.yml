@@ -1,0 +1,7 @@
+---
+applications:
+- name: SimpleSpringApp
+  memory: 1G
+  random-route: true
+  path: target/SimpleSpringMVC.war
+
